@@ -20,7 +20,7 @@ bot = Bot(token='5037002755:AAH0SdUBgoGG27O3Gm6BS31cOKE286e3Oqo')
 dp = Dispatcher()
 
 # URL вашего веб-приложения
-WEBAPP_URL = "https://gademoffshit.github.io/telegram-shop-bot/"
+WEBAPP_URL = "https://vaperoom.github.io/telegram-shop-bot/"
 
 # Словарь для хранения данных заказов
 orders_data = {}
