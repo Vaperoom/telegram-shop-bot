@@ -17,6 +17,15 @@
       "image": "https://i2.wp.com/vapesourcing.com/images/202008/lolly_puff_disposable_bottom_view.jpg",
       "popularity": 8,
       "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "Elfbar Combo 25000 | Grape | Mary Drink",
+      "price": 120,
+      "category": "Одноразки",
+      "image": "https://static.insales-cdn.com/r/k75A0HzpcDg/rs:fit:1000:1000:1/plain/images/products/1/54/910884918/Peach_Mango_Watermelon.jpg@webp",
+      "popularity": 0,
+      "in_stock": false
     }
   ]
 }
