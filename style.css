@@ -825,6 +825,7 @@ body {
     color: var(--tg-theme-text-color);
     min-height: 100vh;
     padding-bottom: env(safe-area-inset-bottom);
+    line-height: 1.5;
 }
 
 .app {

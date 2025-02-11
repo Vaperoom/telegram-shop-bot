@@ -5,8 +5,9 @@
             "name": "Ursa Baby Pro Gunmetal Espresso",
             "price": 140,
             "category": "Одноразки",
-            "image": "https://static.insales-cdn.com/images/products/1/6907/887773947/photo_2024-07-22_22.24.02.jpeg",
-            "popularity": 10
+            "image": "https://i2.wp.com/vapesourcing.com/images/202008/lolly_puff_disposable_bottom_view.jpg",
+            "popularity": 10,
+            "in_stock": true
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "price": 150,
             "category": "Одноразки",
             "image": "https://i2.wp.com/vapesourcing.com/images/202008/lolly_puff_disposable_bottom_view.jpg",
-            "popularity": 8
+            "popularity": 8,
+            "in_stock": true
         }
     ]
 }
