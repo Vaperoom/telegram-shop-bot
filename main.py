@@ -15,12 +15,12 @@ import uuid
 load_dotenv()
 
 # Инициализация бота и диспетчера
-bot = Bot(token='7681445207:AAEOgT1TSaQJikojYeYKnWE7w42rhFILxr8')
+bot = Bot(token='5037002755:AAH0SdUBgoGG27O3Gm6BS31cOKE286e3Oqo')
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 
 # URL вашего веб-приложения
-WEBAPP_URL = "https://vaperoom.github.io/telegram-shop-bot/"
+WEBAPP_URL = "https://gademoffshit.github.io/telegram-shop-bot/"
 
 # ID администратора
 ADMIN_ID = 7356161144
@@ -139,7 +139,7 @@ async def process_help(callback: types.CallbackQuery):
         "3. Оформите заказ\n"
         "4. Выберите способ оплаты\n"
         "5. Загрузите квитанцию\n\n"
-        "❓ Есть вопросы? Пишите: @support"
+        "❓ Есть вопросы? Пишите: @odnorazki_wrot"
     )
     await callback.message.edit_text(
         help_text,
@@ -157,7 +157,7 @@ async def process_about(callback: types.CallbackQuery):
         "✅ Надежная упаковка\n"
         "✅ Гарантия качества\n"
         "✅ Поддержка 24/7\n\n"
-        "📞 Контакты: @support"
+        "📞 Контакты: @odnorazki_wro"
     )
     await callback.message.edit_text(
         about_text,
